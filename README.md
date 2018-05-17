@@ -8,4 +8,4 @@
 * Currently working as Sr. Web Developer with Mobiquity India Pune.
 * Education: Graduate in Bachelor or Computer Application
 
-** My Resume [Tameshwar Nirmalkar](https://github.com/TameshwarNirmalkar/My-profile/blob/master/Updated_Resume.doc "Tameshwar Nirmalkar").
+**My Resume [Tameshwar Nirmalkar](https://github.com/TameshwarNirmalkar/My-profile/blob/master/Updated_Resume.doc "Tameshwar Nirmalkar").**
